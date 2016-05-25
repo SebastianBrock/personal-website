@@ -1,0 +1,11 @@
+{
+  "name": "personal-website",
+  "homepage": "https://github.com/SebastianBrock/personal-website",
+  "authors": [
+    "Sebastian Brock <jbrock@cspire.com>"
+  ],
+  "description": "My personal website",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT"
+}
